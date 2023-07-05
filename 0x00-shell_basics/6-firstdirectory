@@ -1,3 +1,2 @@
-#!/bin/bas
-directory_path="/tmp/my_first_directory"
-mkdir "$directory_path"
+#!/bin/bash
+mkdir /tmp/my_first_directory
